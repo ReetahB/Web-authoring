@@ -1,0 +1,50 @@
+<html>
+<body>
+
+<table width="600"
+cellpadding="10"
+cellspacing="10">
+<tr>
+<th></th>
+<th scope="col">Monday</th>
+<th scope="col">Tuesday</th>
+<th scope="col">Wednesday</th>
+<th scope="col">Thursday</th>
+<th scope="col">Friday</th> 
+</tr>
+<tr>
+  <th scope="row">11am</th>
+  <td rowspan="2">MGMT 351-02 Entrpreneurship Dr. Ogbolu </td>
+ <td></td>
+ <td rowspan="2">MGMT 351-02 Entrpreneurship Dr. Ogbolu </td>
+ </tr> 
+ <tr>
+ <th scope="row">12am</th></tr>
+ 
+ <tr><th scope="row">1pm</th>
+ 
+<td rowspan="2">INFO 398-01 <br/> IS consulting <br/> 3cr Dr. Buskey</td>
+ 
+ <td>MGMT 390-06 <br/> B.Policy <br/> 3 cr Dr. 
+ Smith</td>
+ <td rowspan="2">INFO 398-01 <br/> IS consulting <br/> 3cr Dr. Buskey</td>
+ <td>MGMT 390-06 <br/> B.Policy <br/> 3 cr Dr. 
+ Smith</td>
+ </tr>
+ 
+ <tr><th scope="row">2pm</th></tr>
+ 
+ <tr><th scope="row">3pm</th></tr>
+ 
+ <tr><th scope="row">4pm</th>
+  <td rowspan="2">INFO 387-01<br/> Web Authoring <br/> 3cr Prof. Henley</td>
+  <td></td>
+   <td rowspan="2">INFO 387-01<br/> Web Authoring <br/> 3cr Prof. Henley</td>
+  </tr>
+ 
+  <tr><th scope="row">5pm</th></tr>
+  
+
+</table>
+</body>
+</html>
