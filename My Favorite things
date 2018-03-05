@@ -1,0 +1,33 @@
+<html>
+<body>
+<h1 id="top">These are my Favorite things</h1>
+<a href="#my-movies">My Movies</a><br/>
+<a href="#my-foods">My Foods</a><br/>
+<a href="#my-shows">My Shows</a><br/>
+<a href="#my-music">My Music</a><br/>
+<h2 id="my-movies">My Movies</h2>
+<ol>
+<li><a href="http://www.imdb.com/title/tt0117008/">Matilda</a></li>
+<li><a href="https://www.youtube.com/watch?v=X_MUyHpojYE">Black Panther</a></li>
+<li><a href="https://en.wikipedia.org/wiki/James_and_the_Giant_Peach_(film)">James and The Giant Peach</a></li>
+</ol>
+<h2 id="my-food">My Food</h2>
+<ol>
+<li><a href="https://www.google.com/search?q=tacos&rlz=1C1SQJL_enUS780US780&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjVze7b1tTZAhUihOAKHaPBBnoQ_AUICygC&biw=1422&bih=684#imgrc=_TwfWF8Ena0hzM:"> Tacos</a></li>
+<li><a href="https://thestayathomechef.com/the-most-amazing-chocolate-cake/">Chocolate Cake</a></li>
+<li><a href="https://www.allrecipes.com/recipe/213947/panang-curry-with-chicken/">Panang Curry</a></li>
+</ol>
+<h2 id="my-shows">My Shows</h2>
+<ol>
+<li><a href="http://www.amc.com/shows/the-walking-dead">The Walking Dead</a></li>
+<li><a href="https://www.rottentomatoes.com/tv/altered_carbon/s01/">Altered Carbon</a></li>
+<li><a href="https://www.hbo.com/westworld">West World</a></li>
+</ol>
+<h2 id="my-music">My Music</h2>
+<ol>
+<li><a href="https://open.spotify.com/user/zui2s2mx510ej598p3bn4otyf/playlist/0uky7uTmaMgTE2tYzQYKKi">Black Panther Album</a></li>
+<li><a href="https://open.spotify.com/track/2NaYnfwrr3QKhOdG3IXfux">Carpoolin by SOB X RBE</a></li>
+<li><a href="https://open.spotify.com/track/1wCManUnBwrfpnwTaV93ho">Unkown by Ravyn Lenae</a></li>
+</ol>
+</body>
+</html>
