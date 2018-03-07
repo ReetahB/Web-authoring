@@ -1,0 +1,94 @@
+<html>
+
+<div id="margins">
+
+<head>
+<title> Hello world</title>
+<style>
+#pic {padding-bottom: 30px;
+  padding-left: 100px;}
+
+#part1 {
+  text-align: center;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(192,192,192);
+    padding-top: 30 px;
+   
+}
+#resume{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+h1{
+  font-family:"Arial",sans-serif;
+}
+
+#secondary{
+  font-family:sans-serif;
+  font-size: 20px ;
+}
+#entry{font-family:"Arial",sans-serif;}
+</style>
+</head>
+<div id="resume"/>
+<body>
+<h1 id="part1">
+
+<strong>Reetah Boyce</strong> <img id="pic" src="https://media.licdn.com/dms/image/C5603AQFDRqAbRI9MBA/profile-displayphoto-shrink_200_200/0?e=1525640400&v=alpha&t=jMTfqyDB1_WFs3B9KMmsLwR2ghnMBlFsUKh1KNU1lsQ" alt="reetah" valign="middle"/></h1>
+
+<p>
+Oakland, CA | (510) 222-2222 | <a href="mailtp:reetahb@gmail.com">reetahb@gmail.com</a> | <a href="https://www.linkedin.com/in/reetah-boyce-3839b9a5/">Reetah's Linkedin</a>
+</p>
+<h2 id="entry">
+Entry-Level Help-Desk Technician
+</h2>
+<br />
+<br />
+<h1 id="edu">Education</h1>
+<p id="secondary">
+XYZ UNIVERSITY, Sometown, MA | 108/120 Credits Earned
+</p>
+<p>
+Pursuing a B.S. in Computer Information Systems l GPA: 3.7/4.0
+</p>
+<h1 id="exp">Experience</h1>
+
+<p id="secondary">
+Help Desk Analyst (2016 to Present) | ABC Company, Sometown, MA </p>
+<p>
+Handle technical troubleshooting within an enterprise environment, including system crashes, slow-downs and data recoveries. Engage
+and track Priority 1 issues, with responsibility for the timely documentation, resolution and closure of trouble tickets. Selected
+Contributions:</p>
+<ul>
+<li>Researched and developed knowledgebase articles for Windows 10 issues, resulting in a 35% increase in first-call resolutions and
+$5K in annual savings.</li>
+<li>Exceeded issue-resolution targets and achieved exemplary customer satisfaction scores, consistently scoring between 95% and
+100% on all calls (outperforming average of 90%).
+<li>Handled 30+ technical/mission-critical calls daily and consistently met high service standards.</li>
+</ul>
+<p id="secondary">Student Help Desk Technician (2015 to 2016) | XYZ UNIVERSITY, Sometown, MA</p>
+<p>
+Provide networking/desktop support and perform mainframe and account-maintenance tasks. Earned commendations for teamwork,
+flexibility and work excellence in providing IT support to students and faculty.</p>
+
+<p id="secondary">
+Sales Representative (2015 to 2016) | ABC Retail Company, Sometown, MA</p>
+<p>
+Leveraged strengths in persuasive communications and consultative sales to become a top sales performer for both retailers (including
+top 10 rankings out of a 100-member sales force).</p>
+<h1 id="tech">Technology Summary</h1>
+<p><strong>Certifications</strong><p>
+<p>CompTIA A+, HDI-Support Center Analyst (HDI-SCA)</p>
+<p><strong>Systems</strong><p>
+<p>CICS/ISPF/Mainframe, Unix, Linux, Windows, Novell NetWare, Mac OS X, Mobile</p>
+<p><strong>Databases</strong><p>
+<p>Oracle, Access, Relational Databases</p>
+<p><strong>Languages</strong><p>
+<p>Visual Basic, SQL, HTML, ASP, CSS, C++, CGI, Perl, JavaScript</p>
+<p><strong>Software</strong><p>
+<p>MS Project, MS Visio, MS Office</p>
+
+
+
+</body></div>
+</html>
