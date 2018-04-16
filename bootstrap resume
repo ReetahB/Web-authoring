@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- ===========================
+    THEME INFO
+    =========================== -->
+    <meta name="description" content="CVstrap is another Free minimal CV HTML theme by EvenFly built with Bootstrap 3.3.0. and released under CC-3.0 license.">
+    <meta name="keywords" content="curriculum vitae, cv, one page, onepage, bootstrap, responsive, resume, timeline, free cv">
+    <meta name="author" content="Mamun Srizon">
+
+    <!-- ===========================
+    SITE TITLE
+    =========================== -->
+    <title>CVstrap - Free Bootstrap CV Template by EvenFly</title>
+
+    <!-- ===========================
+    FAVICONS
+    =========================== -->
+    <link rel="icon" href="img/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="img/apple-touch-icon-ipad-retina.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-iphone-retina.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-ipad.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="img/apple-touch-icon-iphone.png" />
+
+    <!-- ===========================
+    STYLESHEETS
+    =========================== -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+    <!-- ===========================
+    FONTS & ICONS
+    =========================== -->
+    <link href='//fonts.googleapis.com/css?family=Kristi|Alegreya+Sans:300' rel='stylesheet' type='text/css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+    <!--[if IE]>
+        <script src="https://cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <div class="container">
+        <!-- ===========================
+        HEADER
+        ============================ -->
+        <div id="header" class="row">
+            <div class="col-sm-2">
+                <img class="propic" src="img/download.jpg" rotate="180">
+            </div>
+            <!-- photo end-->
+
+            <div class="col-sm-10">
+                <div class="cv-title">
+                    <div class="row">
+                        <div class="col-sm-7">
+                            <h1>Reetah Nzinga Boyce</h1>
+                        </div>
+                        <div class="col-sm-5 text-right dl-share">
+                            <!-- AddToAny BEGIN -->
+                            <a class="a2a_dd btn btn-default" href=""><span class="fa fa-share "></span> Share</a>
+                            <script type="text/javascript">
+                                var a2a_config = a2a_config || {};
+                                a2a_config.linkname = "Minimal CV by EvenFly";
+                                a2a_config.num_services = 6;
+                                a2a_config.prioritize = ["facebook", "twitter", "google_plus", "linkedin", "pinterest", "email"];
+                            </script>
+                            <script type="text/javascript" src="//static.addtoany.com/menu/page.js"></script>
+                            <!-- AddToAny END -->
+
+                            <a class="btn btn-success" href=""><span class="fa fa-download"></span> Download</a>
+                        </div>
+                    </div>
+                    <h2>Student</h2>
+                </div><!-- Title end-->
+
+                <!-- ===========================
+                SOCIAL & CONTACT
+                ============================ -->
+                <div class="row">
+                    <div class="col-sm-4">
+                        <ul class="list-unstyled">
+                            <li><a href=""><span class="social fa fa-home"></span>Reets.com</a>
+                            </li>
+                            <li><a href=""><span class="social fa fa-skype"></span>+1 201 888 1121</a>
+                            </li>
+                            <li><a href="mailto:reetahb@gmail.com"><span class="social fa fa-envelope-o"></span>reetahb@mail.com</a>
+                            </li>
+                        </ul>
+                    </div><!-- social 1st col end-->
+
+                    <div class="col-sm-4">
+                        <ul class="list-unstyled">
+                            <li><a href=""><span class="social fa fa-facebook"></span>Facebook</a>
+                            </li>
+                            <li><a href=""><span class="social fa fa-twitter"></span>Twitter</a>
+                            </li>
+                            <li><a href=""><span class="social fa fa-linkedin"></span>Linkedin</a>
+                            </li>
+                        </ul>
+                    </div><!-- social 2nd col end-->
+
+                    <div class="col-sm-4">
+                        <ul class="list-unstyled">
+                            <li><a href=""><span class="social fa fa-behance"></span>Behance</a>
+                            </li>
+                            <li><a href=""><span class="social fa fa-dribbble"></span>Dribbble</a>
+                            </li>
+                            <li><a href=""><span class="social fa fa-instagram"></span>Instagram</a>
+                            </li>
+                        </ul>
+                    </div><!-- social 3rd col end-->
+                </div><!-- header social end-->
+            </div><!-- header right end-->
+        </div><!-- header end-->
+
+        <hr class="firsthr">
+
+        <!-- ===========================
+        BODY LEFT PART
+        ============================ -->
+        <div class="col-md-8 mainleft">
+            <div id="statement" class="row mobmid">
+                <div class="col-sm-1">
+                    <span class="secicon fa fa-user"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11">
+                    <h3>Personal statement </h3>
+                    <p>Hi, I am Reetah from Oakland, CA. I currently am an Information Systems Senior at Howard University. Fusce cursus interdum neque nec aliquam. Proin turpis leo, laoreet non ultricies non, dictum nec nulla. Duis vitae nisi eu odio Adipiscing elit. Nullam dapibus vehicula condimentum. Curabitur elit enim, accumsan.</p>
+
+                    <p> I am really interested in becoming the master of everything and receiving an A in this course. recusandae nam dignissimos autem. Sequi quas quis non, odit assumenda similique neque.</p>
+
+                    <p class="signature">ReetahBoyce</p>
+                </div><!--info end-->
+            </div><!--personal statement end-->
+
+            <hr>
+
+            <div id="education" class="row mobmid">
+                <div class="col-sm-1">
+                    <span class="secicon fa fa-graduation-cap"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11">
+                    <h3>Education</h3>
+
+                    <div class="row">
+                        <div class="col-md-9">
+                            <h4>B.B.A Information Systems</h4>
+                            <p class="sub"><a href="">Howard University</a>
+                            </p>
+                            <p>Studying all aspect of Computer Information systems and processes. Completed capstone as a consultant for Under Armour.</p>
+                        </div>
+
+                        <div class="year col-md-3">
+                            <p>2014-2018</p>
+                        </div>
+                    </div><!--Education & Certification 1 end-->
+                    
+                    <hr>
+                    
+                    <div class="row">
+                        <div class="col-md-9">
+                            <h4>High School Diploma</h4>
+                            <p class="sub"><a href="">Oakland Technical High School</a>
+                            </p>
+                            <p>Completed HS coursework requirements including AP courses, Honors courses, and a Biotech Academy internship.</p>
+                        </div>
+
+                        <div class="year col-md-3">
+                            <p>2010-2014</p>
+                        </div>
+                    
+                    </div><!--Education & Certification 3 end-->
+                </div>
+            </div><!--Education & Certifications end-->
+            
+            <hr>
+
+            <!-- ===========================
+            JOB EXPERIENCES
+            ============================ -->
+            <div id="job" class="row mobmid">
+                <div class="col-sm-1">
+                    <span class="secicon fa fa-briefcase"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11">
+                    <h3>I.S Student Consultant</h3>
+
+                    <div class="row">
+                        <div class="col-md-9">
+                            <h4>Under Armour</h4>
+                            <p class="sub">
+                            </p>
+                            <p>Utilized consultant style problem solving skills to devise recommendations for the client.</p>
+                        </div>
+
+                        <div class="year col-md-3">
+                            <p> 2018 - present</p>
+                        </div>
+                    </div><!--Job 1 end-->
+                    
+                    <hr>
+                    
+                    <div class="row">
+                        <div class="col-md-9">
+                            <h4>IT Intern</h4>
+                            <p class="sub"><a href="https://healthy.kaiserpermanente.org/">Kaiser Permanente</a>
+                            </p>
+                            <p>Researched best implementation practices and design slutions. Created wire frame and mock up iterations to present to the department leaders.</p>
+                        </div>
+
+                        <div class="year col-md-3">
+                            <p>Summer 2017</p>
+                        </div>
+                    </div><!--Job 2 end-->
+                    
+                    <hr>
+                    
+                       <div class="row">
+                        <div class="col-md-9">
+                            <h4>Health Education Inter</h4>
+                            <p class="sub"><a href="https://healthy.kaiserpermanente.org/">Kaiser Permanente</a>
+                            </p>
+                            <p>Evaluated Technology Learning Center intern program training materials and formulated a list of critiques to make the intern learning experience more efficient.</p>
+                        </div>
+
+                        <div class="year col-md-3">
+                            <p>Summer 2016</p>
+                        </div>
+                    </div><!--Job 3 end-->
+                </div><!--Job experiences end-->
+            </div><!--Job experiences end-->
+        </div><!--left end-->
+        
+        <!-- ===========================
+        SIDEBAR
+        =========================== -->
+        <div class="col-md-4 mainright">
+            <div class="row">
+                <div class="col-sm-1 col-md-2 mobmid">
+                    <span class="secicon fa fa-magic"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11 col-md-10">
+                    <h3 class="mobmid">Technical skills </h3>
+
+                    <p>SQL</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
+                            <span class="sr-only">65% Complete (success)</span>
+                        </div>
+                    </div><!--skill end-->
+
+
+                    <p>CSS</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%">
+                            <span class="sr-only">85% Complete</span>
+                        </div>
+                    </div><!--skill end-->
+
+                    <p>Twitter Scrolling</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+                            <span class="sr-only">60% Complete (warning)</span>
+                        </div>
+                    </div><!--skill end-->
+
+                    <p>Selfie Taking</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="86" aria-valuemin="0" aria-valuemax="100" style="width: 86%">
+                            <span class="sr-only">30% Complete (danger)</span>
+                        </div>
+                    </div><!--skill end-->
+                </div><!--info end-->
+            </div><!--tech skills end-->
+            
+            <hr>
+
+            <div class="row mobmid">
+                <div class="col-sm-1 col-md-2">
+                    <span class="secicon fa fa-trophy"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11 col-md-10 ">
+                    <h3> Honors &amp;Awards</h3>
+
+                    <div class="award">
+                        <h4>National Society of Collegiate Scholars</h4>
+                        <p class="sub"><a href="https://nscs.org/">NSCS</a></p>
+                        <p>Honor society that has members who positively impact their campuses and communities by participating in service activities as they prepare for future endeavors. Along the way, members connect with fellow high-achieving students.</p>
+                    </div>
+                    <!--1st award end-->
+
+                    <div class="award">
+                        <h4>Legacy Scholarship</h4>
+                        <p class="sub"><a href="https://www2.howard.edu/">Howard University</a></p>
+                        <p>Scholarship which covers full tuition is offered to freshman entering Howard University who meet GPA and SAT requirements.</p>
+                    </div><!--1st award end-->
+                </div><!--awards end-->
+
+            </div>
+            
+            <hr>
+
+            <div class="row ">
+                <div class="col-sm-1 col-md-2 mobmid">
+                    <span class="secicon fa fa-quote-left"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11 col-md-10 testimonials">
+                    <h3 class="mobmid">Testimonials </h3>
+
+                    <div class="row">
+                        <blockquote>
+                            <p>Reetah is literally the best person ever. She is so smart and talented. Hire her.</p>
+                        </blockquote>
+                        <img src="img/kelly.jpg" alt="">
+                        <h4>Laseandra Kelly</h4>
+                        <p>PWC Consultant</p>
+                    </div><!--1st testimonial end-->
+
+                    <div class="row">
+                        <blockquote>
+                            <p>Reetah has been a joy to work with. She makes every day feel easy, breezy, and beautiful.</p>
+                        </blockquote>
+                        <img src="img/simeon.jpg" alt="">
+                        <h4>Simeon Kakpovi</h4>
+                        <p>Montgomery College</p>
+                    </div><!--2nd testimonial end-->
+
+                    <div class="row">
+                        <blockquote>
+                            <p>Reetah is really good at assisting lead roles and being detail oriented. Give her a shot in a leadership position and she will shine.</p>
+                        </blockquote>
+                        <img src="img/jaz.jpg" alt="">
+                        <h4>Jazmyn Snelson</h4>
+                        <p>First Data</p>
+                    </div><!--3rd testimonial end-->
+                </div><!--testimonials end-->
+            </div><!--tech skills end-->
+        </div><!--right end-->
+    </div><!--container end-->
+
+    <!-- ===========================
+    FOOTER
+    =========================== -->
+    <footer class="text-center">
+        <p>&copy; <a href="http://creativecommons.org/licenses/by/3.0/">CC-3.0</a>, Just another CV template by <a href="https://evenfly.com">EvenFly </a> - Designed by <a target="_blank" href="http://www.facebook.com/towkirahmedbappy">Towkir Ahmed Bappy</a>.
+        </p>
+    </footer>
+
+    <!--necessary scripts and plugins-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script src="js/jquery.nicescroll.min.js"></script>
+    <script src="js/evenfly.js"></script>
+</body>
+
+</html>
