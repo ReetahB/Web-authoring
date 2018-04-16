@@ -1,0 +1,98 @@
+<html>
+
+<div id="margins">
+
+<head>
+<title> Hello world</title>
+<style>
+#pic {padding-bottom: 30px;
+  padding-left: 100px;}
+
+#part1 {
+  text-align: center;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(192,192,192);
+    padding-top: 30 px;
+   
+}
+#resume{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+h1{
+  font-family:"Arial",sans-serif;
+color:pink}
+
+#secondary{
+  font-family:sans-serif;
+  font-size: 20px ;
+}
+#entry{font-family:"Arial",sans-serif;}
+
+h2{color: pink}
+</style>
+</head>
+
+<a href="#entry">Objective</a>|
+<a href="#edu">Education</a>|
+<a href="#exp">Experience</a>|
+<a href="#tech">Skills</a>
+<div id="resume"/>
+<body>
+<h1 id="part1">
+
+<strong>Reetah Boyce</strong> <img id="pic" src="https://media.licdn.com/dms/image/C5603AQFDRqAbRI9MBA/profile-displayphoto-shrink_200_200/0?e=1525640400&v=alpha&t=jMTfqyDB1_WFs3B9KMmsLwR2ghnMBlFsUKh1KNU1lsQ" alt="reetah" valign="middle"/></h1>
+
+<p>
+Oakland, CA | (510) 222-2222 | <a href="mailtp:reetahb@gmail.com">reetahb@gmail.com</a> 
+</p>
+<h2 id="entry">
+Objective:
+</h2><p>
+I seek to find a job as soon as possible
+</p>
+
+<h1 id="edu">Education</h1>
+<p id="secondary">
+Howward University, Washington DC, | 105/120 Credits Earned
+</p>
+<p>
+Pursuing a B.S. in Computer Information Systems l GPA: 3.5/4.0
+</p>
+<h1 id="exp">Experience</h1>
+
+<p id="secondary">
+Grocery Bagger (2016 to Present) | Glens Garden Market, Washington, DC </p>
+<p>
+Handle technical troubleshooting within an enterprise environment, including system crashes, slow-downs and data recoveries. Engage
+and track Priority 1 issues, with responsibility for the timely documentation, resolution and closure of trouble tickets. Selected
+Contributions:</p>
+<ul>
+<li>Researched and developed knowledgebase articles for Windows 10 issues, resulting in a 35% increase in first-call resolutions and
+$5K in annual savings.</li>
+<li>Exceeded issue-resolution targets and achieved exemplary customer satisfaction scores, consistently scoring between 95% and
+100% on all calls (outperforming average of 90%).
+<li>Handled 30+ technical/mission-critical calls daily and consistently met high service standards.</li>
+</ul>
+
+<h1 id="tech">Skills</h1>
+
+<p><strong>Languages</strong><p>
+<ul>
+<li>Visual Basic</li>
+<li>SQL</li>
+<li>CSS</li>
+</ul>
+
+<p><strong>Software</strong><p>
+<ul>
+<li>MS Project</li>
+<li> MS Visio</li>
+<li>MS Office</li>
+</ul>
+
+
+
+
+</body></div>
+</html>
