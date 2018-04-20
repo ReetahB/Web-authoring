@@ -1,0 +1,59 @@
+<html lang="en">
+ <head> 
+     <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+ <title> Best egg sandwich </title>
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+ </head>
+ <body>
+     <div class="container">
+ <h1> Breakfast Sandwich </h1>
+ <h2> By Reetah Boyce </h2>
+         
+ <div class="well">My favorite breakfast to eat before class is a sausage and egg sandwich on english muffin. I like it becuase 
+its yummy, filling and quick to make, lets go!.</div>
+         </div>
+     <div class="panel panel-success">
+ <div class="panel-heading">
+         <h3 class="panel-title"> Ingredients </h3>
+         </div>
+         <div class="panel-body">
+ <ul>
+ <li>One english muffin</li>
+<li>One egg</li>
+<li>One breakfats sausage patty</li>
+<li>Salt and pepper</li>
+<li>a little butter</li>
+<li>jelly</li>
+<em>Optional:</em>
+<li>cream cheese</li>
+ </ul>
+             </div>
+         </div>
+     <div class="panel panel-info">
+         <div class="panel-heading">
+ <h3 class="panel-title">What To Do</h3>
+             </div>
+         <div class="panel-body">
+ <ol>
+<li> Turn on stove to medium heat and put a little butter in the pan.</li>
+<li>Crack your egg into the skillet, then salt and pepper to your liking.</li>
+<li>Once the egg is cooked, take it out and put in your sausage</li>
+<li>While you wait for the sausage to cook, put the english muffin in the toaster or broiler until golden brown.</li>
+<li> Flip over sausage to cook fully.</li>
+<li> Once all ingredients are cooked, add jelly to the top half of the muffin.</li>
+<li> Place the cooked add and sausage on the bottom half of the muffin to finish!</li>
+<li><em>Optional</em> : Spread cream cheese on the bottom half of the muffin before adding
+Other ingredients.</li>
+
+ </ol>
+             </div>
+         </div>
+ </body>
+ </html> 
